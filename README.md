@@ -61,12 +61,12 @@ Slack:
 
 ### Prerequisites
 
-*NodeJS
-*Discord ID if using
-*Twitter ID if using
-*Slack ID if using
-*Telegram ID if using
-*Electra Wallet/Funds
+* NodeJS
+* Discord ID if using
+* Twitter ID if using
+* Slack ID if using
+* Telegram ID if using
+* Electra Wallet/Funds
 
 ## Release Info
 
