@@ -78,7 +78,7 @@ Slack:
 * v0.4 - Support For Slack Added, Config takes all strings, config keys made more specific. Wallet no 
             longer starts with splash and is minimized
 
-Future Plans: Slack Support, Refractor Code, Add Electron GUI with Wallet Functionality.
+Future Plans: Refractor Code, Add Electron GUI with Wallet Functionality.
 
 ## Built With
 
