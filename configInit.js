@@ -256,6 +256,8 @@ fs.writeFile(__dirname + '\\components\\wallet\\Electra_Blockchain\\Electra.conf
     });
 });
 
+
+
 } else if(config.needWallet === 'off') {
     console.log('needWallet set OFF... Listening For RPC Commands')
-    };
+    }
