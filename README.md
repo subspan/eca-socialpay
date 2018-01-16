@@ -58,11 +58,20 @@ Discord ID if using
 Twitter ID if using
 Electra Wallet/Funds
 
+## Release Info
+
+* v0.1 - Support For Only Discord
+* v0.2 - Support For Twitter Added, Buttons To Not Use Certain Platforms, Wallet Built In/Optional
+* v0.3 - Support For Telegram Added, Payments to 5th (0.00000) added
+
+Future Plans: Slack Support, Refractor Code, Add Electron GUI with Wallet Functionality.
+
 ## Built With
 
 * [Kapitalize](https://github.com/shamoons/Kapitalize) - Industrious Bitcoin Client For Node
 * [DiscordJS](https://discord.js.org/#/) - Discord Bot Module
 * [twitter](https://github.com/desmondmorris/node-twitter) - Client Library for Twitter Rest and Streaming API's
+* [node-telegram-bot-api] (https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 
 ## Authors
 
