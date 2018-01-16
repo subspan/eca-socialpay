@@ -17,7 +17,10 @@
     "telegramPower":"off",
     "telegramToken":"Your_Token",
     "telegramOwnerID":"Your_ID",
-    "needWallet":"on",
+    "slackPower":"off",
+    "slackToken":"Your_Slack_Token",
+    "slackOwnerID":"YourSlackID",
+    "needWallet":"off",
     "kap_port":"5788",
     "kap_user":"user",
     "kap_pass":"password"
