@@ -32,6 +32,8 @@ Telegram:
         * USERS MUST MESSAGE BOT FIRST TO RECEIVE MESSAGES FROM BOT
         Telegram is tricky set up. Users MUST has username set, then their username is saved with their userID. You can then @username and you will be able to interact with user. To avoid spam the app is set up to Message Users directly instead of in chat/group.
         
+        * TypeError Found.. Does Not Stop Application but will show in console. Will fix soon
+        
 
 Twitter:
 * Tweet The Following To Set Address:
