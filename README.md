@@ -52,10 +52,10 @@ Discord:
         *There is one bug I've found with getting the userID from their Screen name... Needs further investigation
 
 Slack:
-*Message in chat or directly to Set Address:
+* Message in chat or directly to Set Address:
     * !address YourECAaddress
     
-*To Pay:
+* To Pay:
     * !pay @username amount
         * No known bugs at this time.
 
